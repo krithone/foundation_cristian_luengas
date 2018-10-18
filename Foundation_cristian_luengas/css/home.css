@@ -1,0 +1,38 @@
+body{
+  background: url(../img/fondo.jpg);
+}
+.container{
+  background-color: rgba(255, 110, 11, 0.5 );
+}
+.title-post{
+  border-right: 1px dashed white;
+  margin-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 3%;
+  color: white;
+}
+.bloque{
+  border-top: 1px dashed white;
+  padding-top: 3%;
+}
+.busqueda{
+  background-color: rgba( 255, 110, 11, 1 );
+}
+.lista{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.image{
+  margin-top: 5%;
+}
+.img{
+  width: 100%;
+  margin-top: 3%;
+}
+.comentario{
+  box-shadow: 2px 1px 3px red;
+  margin-top: 2%;
+}
+.contenedor{
+font-size: 1.8em; 
+}
